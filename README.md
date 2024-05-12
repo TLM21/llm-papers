@@ -1,5 +1,5 @@
 # llm-papers
-  Best LLM papers I read
+  Best LLM papers
 
 # Format 
   - [ **Title **] [ PDF ] [ Takeaway ] 
